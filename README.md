@@ -267,10 +267,11 @@ Users can access previous networking conversations, review generated suggestions
 | Name | Role |
 |------|------|
 | Ashajyothi Kusume | Team Lead |
-| Maddula Venkata Kowshik | Team Member |
-| Polisetty Baby Nagalakshmi | Team Member |
 | SatyaKalyani Donga | Team Member |
 | Sravanthi Nalli | Team Member |
+| Maddula Venkata Kowshik | Team Member |
+| Polisetty Baby Nagalakshmi | Team Member |
+
 
 ---
 
