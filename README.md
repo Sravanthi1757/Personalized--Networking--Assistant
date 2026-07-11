@@ -217,7 +217,7 @@ _Add screenshot here_
 
 ### Swagger API Documentation
 
-_Add screenshot here_
+<img width="1600" height="834" alt="WhatsApp Image 2026-07-11 at 5 59 53 PM" src="https://github.com/user-attachments/assets/aec1c81c-70e9-4aa6-9e5c-66cdd695ed30" />
 
 ---
 
