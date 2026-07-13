@@ -274,7 +274,7 @@ Users can access previous networking conversations, review generated suggestions
 | Name | Role |
 |------|------|
 | Sravanthi Nalli | Team Member |
-| SatyaKalyani Donga | Team Member |
+| Donga Satya Kalyani | Team Member |
 | Maddula Venkata Kowshik | Team Member |
 | Polisetty Baby Nagalakshmi | Team Member |
 
