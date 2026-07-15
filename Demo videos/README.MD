@@ -36,7 +36,7 @@ This video explains the implementation of the project, including:
 - API Endpoints
 - Source Code Walkthrough
 
-🔗 https://drive.google.com/file/d/1u4j-Yf7vTA_J_TCwMG1dtJlAN01l3T9V/view?usp=sharing
+🔗 https://drive.google.com/file/d/1w60gmsNrBqokFNtVusWVO5k3peY_ekOm/view?usp=sharing
 
 ---
 
